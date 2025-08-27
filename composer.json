@@ -11,7 +11,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "CoreKit\\AuthExtensions\\src\\AuthExtensionsServiceProvider"
+                "CoreKit\\AuthExtensions\\AuthExtensionsServiceProvider"
             ]
         }
     }
